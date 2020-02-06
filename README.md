@@ -1,4 +1,6 @@
-To run the code: you need to install chrome driver, selenium, beautiful soup, webbrowser and the request package for python.
+**To run the code**
+
+You need to install chrome driver, selenium, beautiful soup, webbrowser and the request package for python.
 
 There might be some bugs in the code that I did not notice. If you find any, make an issue on gitHub.
 

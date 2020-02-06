@@ -3,13 +3,14 @@ To run the code: you need to install chrome driver, selenium, beautiful soup, we
 There might be some bugs in the code that I did not notice. If you find any, make an issue on gitHub.
 
 **FIND ANY JOB**
+
 *In the code change:*
 
     JOB_TITLE = "Developer"
     
     JOB_LOCATION = "Winnipeg, MB"
 
-**Link**
+**LINK**
 
 Chrome Driver - [https://chromedriver.chromium.org/](https://chromedriver.chromium.org/)
 

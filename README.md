@@ -10,6 +10,7 @@ There might be some bugs in the code that I did not notice. If you find any, mak
     JOB_LOCATION = "Winnipeg, MB"
 
 **Link**
+
 Chrome Driver - [https://chromedriver.chromium.org/](https://chromedriver.chromium.org/)
 
 Webbrowser - [https://docs.python.org/2/library/webbrowser.html](https://docs.python.org/2/library/webbrowser.html)
